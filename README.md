@@ -10,6 +10,9 @@ The project divides the scoring and feedback task into 4 sub tasks i.e.
 It uses a separate prompt for each of the above tasks, specifically engineered to assess the respective criteria. Finally, outputing the combined result as an overall feedback and score.  
 
 
+### Sample result can be found at
+https://m-a-r-i-b.github.io/portfolio/gpt-ielts-essay-examiner/
+
 ### Future Work / TODO :
 -   Improve feedback and score separation logic
 -   Handle edge cases
