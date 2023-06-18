@@ -12,4 +12,5 @@ It uses a separate prompt for each of the above tasks, specifically engineered t
 
 ### Future Work / TODO :
 -   Improve feedback and score separation logic
+-   Handle edge cases
 -   Add few-shot examples to better guide the system, if official corpus becomes available BINGO. Current corpus is not good enough
