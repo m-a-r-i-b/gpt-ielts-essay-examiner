@@ -34,6 +34,10 @@ The feedback you give will only mention whether the essay fully addresses all pa
 The feedback should also mention whichever points are true for the given essay, from the criteria list given above.
 
 The output should be a band score and feedback, both delimited with {delimiter} characters.
+e.g. 
+Band score : 7
+{delimiter}
+Feedback :
 
 """
 
@@ -69,7 +73,7 @@ openai.api_key = "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"
 
 
 def get_completion_from_messages(messages, 
-                                 model="davinci", 
+                                 model="gpt-3.5-turbo", 
                                  temperature=0, 
                                  max_tokens=500):
     response = openai.ChatCompletion.create(

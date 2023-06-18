@@ -32,6 +32,11 @@ The feedback you give will only mention whether the essay uses a wide range of v
 The feedback should also mention whichever points are true for the given essay, from the criteria list given above.
 
 The output should be a band score and feedback, both delimited with {delimiter} characters.
+e.g. 
+Band score : 7
+{delimiter}
+Feedback :
+
 """
 
 
