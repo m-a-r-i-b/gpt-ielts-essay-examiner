@@ -1,4 +1,4 @@
-## Gpt-IELTS-Examiner
+## Gpt-IELTS-Essay-Examiner
 
 IELTs essay scoring and feedback with GPT.
 The project divides the scoring and feedback task into 4 sub tasks i.e.
